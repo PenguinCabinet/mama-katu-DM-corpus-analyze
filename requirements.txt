@@ -1,0 +1,5 @@
+numpy==1.22.2
+matplotlib==3.5.2
+emoji==1.6.3
+Janome==0.4.1
+scipy==1.8.0
